@@ -1,2 +1,2 @@
 # new-project
-it is upload for project work
+This is a my resume made with HTML, CSS, and Bootstrap. 
